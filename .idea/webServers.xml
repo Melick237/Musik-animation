@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f471fece-62f9-4bc8-8889-5aab522c4748" name="Seite-loic" url="http://keto.th-brandenburg.de">
+        <fileTransfer host="keto.th-brandenburg.de" port="22" rootFolder="/srv/www/user/melachio" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
